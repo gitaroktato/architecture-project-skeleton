@@ -29,7 +29,7 @@ import { existsSync } from "node:fs";
 
 const ROOT = resolve(import.meta.dirname, "..");
 const CONTENT_DIR = join(ROOT, "content");
-const OUTPUT_FILE = join(ROOT, "solution_arcitecture_assessment.docx");
+const OUTPUT_FILE = join(ROOT, "solution_arcitecture_documentation.docx");
 
 // ---------------------------------------------------------------------------
 // 1. Define the document structure
@@ -349,7 +349,7 @@ async function main() {
       // Resource path for images (project root + content dirs)
       "--resource-path", [ROOT, CONTENT_DIR].join(":"),
       // Metadata
-      "--metadata", "title=Solution Solution Architecture Assessment",
+      "--metadata", "title=Solution Solution Architecture Documentation",
       "--metadata", "subtitle=Architecture Documentation",
       // Shift headings: H1 in individual files become H2 in the combined doc
       // (except the title which stays H1). We handle this by keeping H1 as-is;
