@@ -72,3 +72,4 @@ yarn build:docx
 - [markdown-toc](https://github.com/thesilk-tux/markdown-toc-gen)
 - [arc42-in-markdown-template](https://github.com/NetworkedAssets/arc42-in-markdown-template)
 - [Arc42 Skill](https://github.com/melodic-software/claude-code-plugins/tree/main/plugins/documentation-standards/skillshttps://github.com/melodic-software/claude-code-plugins/tree/main/plugins/documentation-standards/skills)
+- [World of Webcraft](https://nealford.com/katas/kata?id=WorldOfWebcraft)
