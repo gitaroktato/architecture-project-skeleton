@@ -40,7 +40,6 @@ export default async function RootLayout({ children }) {
           // banner={banner}
           navbar={navbar}
           pageMap={await getPageMap()}
-          docsRepositoryBase="https://gitbud.epam.com/oresztesz_margaritisz/kajeet-architecture"
           footer={footer}
           copyPageButton={false}
           feedback={feedback}
