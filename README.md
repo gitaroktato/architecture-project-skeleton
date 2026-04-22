@@ -1,6 +1,6 @@
 # Architecture Project Skeleton
 
-A project skeleton for a living architecture documentation.
+A project skeleton for a living architecture documentation. Based on Arc42 template + Nextra.
 
 ## Development
 
