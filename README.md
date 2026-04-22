@@ -1,2 +1,3 @@
-# architecture-project-skeleton
-A project skeleton for a living architecture documentation
+# Architecture Project Skeleton
+
+A project skeleton for a living architecture documentation. 
