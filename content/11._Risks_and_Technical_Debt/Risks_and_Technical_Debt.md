@@ -1,6 +1,10 @@
-Risks and Technical Debts 
-=========================
+# Risks and Technical Debts
 
+<!-- toc -->
+
+<!-- tocstop -->
+
+<!--
 **Contents.**
 
 A list of identified technical risks or technical debts, ordered by
@@ -20,4 +24,4 @@ of the overall risk analysis and measurement planning.
 
 List of risks and/or technical debts, probably including suggested
 measures to minimize, mitigate or avoid risks or reduce technical debts.
-
+-->

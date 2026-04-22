@@ -1,6 +1,10 @@
-Solution Strategy
-=================
+# Solution Strategy
 
+<!-- toc -->
+
+<!-- tocstop -->
+
+<!--
 **Contents.**
 
 A short summary and explanation of the fundamental decisions and
@@ -28,3 +32,4 @@ Keep the explanation of these key decisions short.
 Motivate what you have decided and why you decided that way, based upon
 your problem statement, the quality goals and key constraints. Refer to
 details in the following sections.
+-->

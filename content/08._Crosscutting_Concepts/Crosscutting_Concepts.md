@@ -1,6 +1,10 @@
-Cross-cutting Concepts
-======================
+# Cross-cutting Concepts
 
+<!-- toc -->
+
+<!-- tocstop -->
+
+<!--
 **Content.**
 
 This section describes overall, principal regulations and solution ideas
@@ -81,3 +85,4 @@ specific topic on this list.
 -------------------
 
 *&lt;explanation&gt;*
+-->

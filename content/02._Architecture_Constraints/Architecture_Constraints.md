@@ -1,6 +1,10 @@
-Architecture Constraints
-========================
+# Architecture Constraints
 
+<!-- toc -->
+
+<!-- tocstop -->
+
+<!--
 **Contents.**
 
 Any requirement that constrains software architects in their freedom of
@@ -20,3 +24,4 @@ Simple tables of constraints with explanations. If needed you can
 subdivide them into technical constraints, organizational and political
 constraints and conventions (e.g. programming or versioning guidelines,
 documentation or naming conventions)
+-->

@@ -1,6 +1,10 @@
-Business Context
-----------------
+# Business Context
 
+<!-- toc -->
+
+<!-- tocstop -->
+
+<!--
 **Contents.**
 
 Specification of **all** communication partners (users, IT-systems, …)
@@ -25,4 +29,4 @@ the communication partner, the inputs, and the outputs.
 **&lt;Diagram or Table&gt;**
 
 **&lt;optionally: Explanation of external domain interfaces&gt;**
-
+-->

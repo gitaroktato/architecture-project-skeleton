@@ -1,7 +1,10 @@
 # Stakeholders
 
-------------
+<!-- toc -->
 
+<!-- tocstop -->
+
+<!--
 **Contents.**
 
 Explicit overview of stakeholders of the system, i.e. all person, roles
@@ -33,3 +36,4 @@ to the architecture and its documentation.
 | ----------- | ------------------------- | ------------------------- |
 | Role-1      | Contact-1                 | *&lt;Expectation-1*&gt;   |
 | Role-2      | Contact-2                 | *&lt;Expectation-2*&gt;   |
+-->

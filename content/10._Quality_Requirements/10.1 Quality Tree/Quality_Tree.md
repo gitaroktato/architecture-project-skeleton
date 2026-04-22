@@ -1,6 +1,10 @@
-Quality Tree 
-------------
+# Quality Tree
 
+<!-- toc -->
+
+<!-- tocstop -->
+
+<!--
 **Content.**
 
 The quality tree (as defined in ATAM – Architecture Tradeoff Analysis
@@ -23,3 +27,4 @@ requirements:
 
 In any case the tree should include links to the scenarios of the
 following section.
+-->

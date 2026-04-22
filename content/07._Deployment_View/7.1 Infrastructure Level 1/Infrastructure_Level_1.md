@@ -1,6 +1,10 @@
-Infrastructure Level 1 
-----------------------
+# Infrastructure Level 1
 
+<!-- toc -->
+
+<!-- tocstop -->
+
+<!--
 Describe (usually in a combination of diagrams, tables, and text):
 
 -   the distribution of your system to multiple locations, environments,
@@ -29,3 +33,4 @@ Quality and/or Performance Features
 Mapping of Building Blocks to Infrastructure
 
 :   *&lt;description of the mapping&gt;*
+-->

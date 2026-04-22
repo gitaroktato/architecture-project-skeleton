@@ -1,7 +1,10 @@
+# Infrastructure Level 2
 
-Infrastructure Level 2 
-----------------------
+<!-- toc -->
 
+<!-- tocstop -->
+
+<!--
 Here you can include the internal structure of (some) infrastructure
 elements from level 1.
 
@@ -20,4 +23,4 @@ Please copy the structure from level 1 for each selected element.
 ### *&lt;Infrastructure Element n&gt;* 
 
 *&lt;diagram + explanation&gt;*
-
+-->

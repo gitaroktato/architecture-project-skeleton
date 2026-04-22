@@ -1,6 +1,10 @@
-Building Block View
-===================
+# Building Block View
 
+<!-- toc -->
+
+<!-- tocstop -->
+
+<!--
 **Content.**
 
 The building block view shows the static decomposition of the system
@@ -35,3 +39,4 @@ the white box description of selected building blocks of level 1,
 together with black box descriptions of their internal building blocks.
 
 **Level 3** zooms into selected building blocks of level 2, and so on.
+-->

@@ -1,6 +1,10 @@
-Runtime View 
-============
+# Runtime View
 
+<!-- toc -->
+
+<!-- tocstop -->
+
+<!--
 **Contents.**
 
 The runtime view describes concrete behavior and interactions of the
@@ -63,3 +67,4 @@ There are many notations for describing scenarios, e.g.
 -------------------------- 
   
 ...
+-->
