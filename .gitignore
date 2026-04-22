@@ -1,0 +1,22 @@
+# React specifics
+node_modules
+.next
+out/
+
+# Pagefind
+_pagefind/
+
+# Temporary files
+
+# DrawIO temporary
+.$*.bkp
+.$*.dtmp
+
+# DOCX build temporary
+.docx-build-*
+
+# Word temporary
+~$*.doc*
+
+# temporary files
+**/*:Zone.Identifier
