@@ -1,6 +1,10 @@
-Introduction and Goals
-======================
+# Introduction and Goals
 
+<!-- toc -->
+
+<!-- tocstop -->
+
+<!--
 Describes the relevant requirements and the driving forces that software
 architects and development team must consider. These include
 
@@ -10,4 +14,4 @@ architects and development team must consider. These include
 -   quality goals for the architecture
 
 -   relevant stakeholders and their expectations
-
+-->

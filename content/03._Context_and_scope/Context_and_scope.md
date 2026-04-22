@@ -1,6 +1,10 @@
-System Scope and Context
-========================
+# System Scope and Context
 
+<!-- toc -->
+
+<!-- tocstop -->
+
+<!--
 **Contents.**
 
 System scope and context - as the name suggests - delimits your system
@@ -24,3 +28,4 @@ Various options:
 -   Context diagrams
 
 -   Lists of communication partners and their interfaces.
+-->

@@ -1,5 +1,10 @@
 # Quality Goals
 
+<!-- toc -->
+
+<!-- tocstop -->
+
+<!--
 **Contents.**
 
 The top three (max five) quality goals for the architecture whose
@@ -17,4 +22,4 @@ architect do not know how the quality of your work will be judged …
 **Form.**
 
 A table with quality goals and concrete scenarios, ordered by priorities
-
+-->

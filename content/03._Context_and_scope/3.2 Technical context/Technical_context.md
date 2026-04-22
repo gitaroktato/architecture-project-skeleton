@@ -1,6 +1,10 @@
-Technical Context
------------------
+# Technical Context
 
+<!-- toc -->
+
+<!-- tocstop -->
+
+<!--
 **Contents.**
 
 Technical interfaces (channels and transmission media) linking your
@@ -25,3 +29,4 @@ and input/output.
 **&lt;optionally: Explanation of technical interfaces&gt;**
 
 **&lt;Mapping Input/Output to Channels&gt;**
+-->

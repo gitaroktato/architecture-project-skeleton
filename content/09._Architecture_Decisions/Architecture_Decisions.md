@@ -1,6 +1,10 @@
-Design Decisions 
-================
+# Design Decisions
 
+<!-- toc -->
+
+<!-- tocstop -->
+
+<!--
 **Contents.**
 
 Important, expensive, large scale or risky architecture decisions
@@ -29,3 +33,4 @@ Various options:
 -   more detailed in form of separate sections per decision
 
 -   ADR (architecture decision record) for every important decision
+-->

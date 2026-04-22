@@ -1,6 +1,10 @@
-Deployment View 
-===============
+# Deployment View
 
+<!-- toc -->
+
+<!-- tocstop -->
+
+<!--
 **Content.**
 
 The deployment view describes:
@@ -45,3 +49,4 @@ additional deployment diagrams:
 -   When your (hardware) stakeholders prefer other kinds of diagrams
     rather than the deployment diagram, let them use any kind that is
     able to show nodes and channels of the infrastructure.
+-->

@@ -1,6 +1,10 @@
-Glossary 
-========
+# Glossary
 
+<!-- toc -->
+
+<!-- tocstop -->
+
+<!--
 **Contents.**
 
 The most important domain and technical terms that your stakeholders use
@@ -27,5 +31,4 @@ Potentially more columns in case you need translations.
 | --------------------------------- | --------------------------------- |
 | Term 1                            | &lt;definition-1&gt;              |
 | Term 2                            | &lt;definition-2&gt;              |
-
-
+-->

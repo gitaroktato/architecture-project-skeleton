@@ -1,6 +1,10 @@
-Whitebox Overall System
------------------------
+# Whitebox Overall System
 
+<!-- toc -->
+
+<!-- tocstop -->
+
+<!--
 Here you describe the decomposition of the overall system using the
 following white box template. It contains
 
@@ -102,4 +106,5 @@ box template:
 
 …
 
-### &lt;Name interface m&gt; 
+### &lt;Name interface m&gt;
+-->
