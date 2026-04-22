@@ -1,6 +1,6 @@
-# About arc42
+# About Arc42
 
-arc42, the Template for documentation of software and system
+Arc42, the Template for documentation of software and system
 architecture.
 
 By Dr. Gernot Starke, Dr. Peter Hruschka and contributors.
@@ -77,4 +77,3 @@ Known technical risks or technical debt. What potential problems exist within or
 
 Important domain and technical terms that stakeholders use when discussing he system. Also: translation reference if you work in a multi-language environment.  
 ![Risks and Technical Debt]../public/12-glossary-overview.png)  
-
